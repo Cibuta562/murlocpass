@@ -1,0 +1,27 @@
+.roadmap-container-gold {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: #ffb300;
+    margin-top: 20px;
+}
+
+.roadmap-item {
+    width: 90%;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+    transition: transform 0.2s ease-in-out;
+}
+
+.roadmap-item:hover {
+    transform: scale(1.05);
+    border-color: #007bff;
+}

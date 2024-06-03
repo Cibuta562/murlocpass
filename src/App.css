@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #4381fd;
+  padding: 20px;
+  color: white;
+}
+
+
+
+.roadmap-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.roadmap-wrapper > * {
+  flex: 1;
+  min-width: 300px;
+}
+
+@media (max-width: 600px) {
+  .roadmap-wrapper {
+    flex-direction: column;
+  }
+
+  .App{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}

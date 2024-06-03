@@ -1,0 +1,28 @@
+.objectives-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 10px;
+    background-color: #f5f5f5;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 90%;
+
+}
+
+.objective-item {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 16px;
+    color: #333;
+    transition: transform 0.2s ease-in-out;
+}
+
+.objective-item:hover {
+    transform: scale(1.05);
+    border-color: #007bff;
+}
