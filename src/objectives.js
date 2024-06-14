@@ -8,7 +8,7 @@ const objectivesList = [
     "100p: finish ching chong legos",
     "150p: finish the puzzle" ,
     "200p: finish something productive together",
-    "50p: win at squad busters (higher place than me)",
+    "50p: win at squad busters (higher place than me) (COMPLETED)",
     "100p: finish the mc house",
 ];
 

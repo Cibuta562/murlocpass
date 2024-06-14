@@ -27,7 +27,7 @@ const Roadmap = () => {
 
     const newTextList = [
         "Un pupic",
-        "Reward 2 (200p)",
+        "Ou Kinder",
         "Reward 3 (300p)",
         "Reward 4 (400p)",
         "Reward 5 (500p)",
