@@ -28,8 +28,8 @@ const Roadmap = () => {
     const newTextList = [
         "Inghetata pe victoriei sau alta strada",
         "Flori dragute",
-        "Reward 3 (300p)",
-        "Reward 4 (400p)",
+        "Mergem la Panini",
+        "Carte",
         "Reward 5 (500p)",
         "Reward 6 (600p)",
         "Reward 7 (700p)",

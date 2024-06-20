@@ -28,8 +28,8 @@ const Roadmap = () => {
     const newTextList = [
         "Un pupic",
         "Ou Kinder",
-        "Reward 3 (300p)",
-        "Reward 4 (400p)",
+        "Hipopotam Kinder",
+        "10 imbratisari",
         "Reward 5 (500p)",
         "Reward 6 (600p)",
         "Reward 7 (700p)",
