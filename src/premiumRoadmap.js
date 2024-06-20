@@ -26,7 +26,7 @@ const Roadmap = () => {
     ];
 
     const newTextList = [
-        "Inghetata pe victoriei sau alta strada",
+        "Inghetata pe victoriei sau alta strada (COMPLETED)",
         "Flori dragute",
         "Mergem la Panini",
         "Carte",

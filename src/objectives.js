@@ -11,12 +11,12 @@ const objectivesList = [
     "50p: win at squad busters (higher place than me) (COMPLETED)",
     "100p: finish the mc house",
     "100p: merge GUBLIN 10 times",
-    "150p: buy me a coffee",
+    "150p: buy me a coffee (COMPLETED)",
     "50p: walk in the park",
     "200p: escape from an escape room",
     "50p: watch a got episode",
     "150p: finish the first 3 chapters from the course",
-    "50p: finish a sudoku in my book (without cheating)",
+    "50p: finish a sudoku in my book (COMPLETED)",
     "100p: 7 streak of physical ex for both of us"
 ];
 

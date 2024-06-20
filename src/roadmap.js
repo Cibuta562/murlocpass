@@ -26,7 +26,7 @@ const Roadmap = () => {
     ];
 
     const newTextList = [
-        "Un pupic",
+        "Un pupic (COMPLETED)",
         "Ou Kinder",
         "Hipopotam Kinder",
         "10 imbratisari",
