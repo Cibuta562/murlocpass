@@ -12,7 +12,7 @@ function App() {
                 <h1>Murloc Pass</h1>
             </header>
             <Objectives/>
-            <p style={{backgroundColor: "#4381fd", padding: "10px", color: "white"}}>Points: 400</p>
+            <p style={{backgroundColor: "#4381fd", padding: "10px", color: "white"}}>Points: 750</p>
             <img src={murloc} style={{height: "400px", marginTop: "20px"}}/>
             <div className="roadmap-wrapper">
                 <Roadmap />
